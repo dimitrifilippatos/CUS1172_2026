@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>  Welcome to Milestone 1! </title>
+</head>
+<body>
+<h1> About Me!</h1>
+<body>
+ 
+    <img src="Milestone1Photo2.jpg" alt="Here is a photo of me!" width="250" height="250"
+
+<p></p>
+<h2></h2> Hello, My name is <b>Dimitri Filippatos</b>.  
+    I am a Senior here at St. John's and my major is <strong>Cyber Security</strong>.  As a kid I was always interested in technology and what we can achieve with it.
+    With techonology being a major part in the world it is very important to understand it and be able to apply it to all areas in life.
+    I was born and raised on Long Island and enjoy traveling in the summertime.  Here is a list of some of the countries I've been to: 
+    <ol>
+<li style="color:blue;"> Greece </li> 
+<li style="color:rgb(82, 97, 0);"> Curaco</li>
+<li style="color:rgb(255, 0, 0);"> Aruba </li>
+<li style="color:rgb(21, 255, 0);"> Mexico</li>
+<li style="color:rgb(0, 174, 255);"> Bahamas</li>
+    </ol>
+
+<h1></h1>
+<body>I graduated high school in 2022 and I have been at St. John's since. I've been trying to further my education here at St. John's and I am working on getting my degree in Cyber Security.  
+    I love to learn new things in the field and will strive to be my best.  I like to connect with my peers to help further gain an understanding for things and it also helps build connections.</body>
+
+
+<body> I haven't really worked on too many project other than ones that I have done in other courses.
+       I have experience working together with others in a group to complete work and other assignments.
+<body>I am most proficient in <b>Java</b> since that is the main language I have been studying here at St. John's.
+    I have also had experience using <b>SQL</b> and I am taking other classes to further my knowledge on the subject.
+</body>
+<h1>My Hobbies!</h1>
+<h2>In my freetime I watch a lot of sports.  
+<ul>
+My favorite teams are:
+<li style="color: rgb(0, 132, 255);"> Rangers </li> 
+<li style="color: rgb(104, 106, 255);"> Yankees </li> 
+<li style="color: rgb(255, 187, 0);"> Knicks </li>
+<li style="color: blue;"> Giants </li>
+</ul>
+I do also like to watch movies my favorite genre of movie is comedy but I do enjoy action films too.
+Some of my favorite movies are Dumb and Dumber, The Planet of the Ape trilogy and the John Wick Movies.
+Movies will either teach you a really good lesson or give a nice laugh when needed they are a really good way to unwind and relax.
+
+<p> I enjoy listening to all differnt genres of music, there is always something to listen to at some point in time. 
+    I would say that my top three genres of music are Rap, Hip-Hop and Pop.  A song I like to listen to in order to get the vibes up are Adventure of a Lifetime by Coldplay.  The music video is the cherry on top to a great song.
+<a href="https://www.youtube.com/watch?v=QtXby3twMmI&list=RDQtXby3twMmI&start_radio=1">Click this link to watch the video and listen to the song!</a>
+</p>
+
+
+<p> A website that I would recommend checking out if you are interested in sports is ESPN.  It is the hub for all sports and you can see the scores around the world to keep track of what you cannot watch.
+    It is also great for catching up with things you may have missed with articles and highlights to show the most improtant moments if you do not want to watch full games.
+</p>
+<a href="https://www.espn.com/">Visit ESPN to keep track of what is happening in sports!</a>
+
+<table style="width:100%"
+<tr>
+<th>Dimitri</th>
+<th>Filippatos</th>
+<th>2026</th>
+
+</tr>
+</table>
+
+
+</html>
